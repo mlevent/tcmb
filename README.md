@@ -1,13 +1,13 @@
 <h2 align="center">💸 TCMB Döviz Kurları</h2>
 <p align="center">TCMB'ın yayınladığı döviz kuru bilgilerine günlük ya da geçmişe dönük ulaşabilir, para birimlerini dönüştürebilirsiniz.</p>
 <p align="center">
-<img src="https://img.shields.io/packagist/dependency-v/mlevent/fatura/php?style=plastic"/>
-<img src="https://img.shields.io/packagist/v/mlevent/fatura?style=plastic"/>
-<img src="https://img.shields.io/github/last-commit/mlevent/fatura?style=plastic"/>
-<img src="https://img.shields.io/github/issues/mlevent/fatura?style=plastic"/>
-<img src="https://img.shields.io/packagist/dt/mlevent/fatura?style=plastic"/>
-<img src="https://img.shields.io/github/stars/mlevent/fatura?style=plastic"/>
-<img src="https://img.shields.io/github/forks/mlevent/fatura?style=plastic"/>
+<img src="https://img.shields.io/packagist/dependency-v/mlevent/tcmb/php?style=plastic"/>
+<img src="https://img.shields.io/packagist/v/mlevent/tcmb?style=plastic"/>
+<img src="https://img.shields.io/github/last-commit/mlevent/tcmb?style=plastic"/>
+<img src="https://img.shields.io/github/issues/mlevent/tcmb?style=plastic"/>
+<img src="https://img.shields.io/packagist/dt/mlevent/tcmb?style=plastic"/>
+<img src="https://img.shields.io/github/stars/mlevent/tcmb?style=plastic"/>
+<img src="https://img.shields.io/github/forks/mlevent/tcmb?style=plastic"/>
 </p>
 
 ### Kurulum

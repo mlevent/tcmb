@@ -4,16 +4,16 @@ use Mlevent\Tcmb\Tcmb;
 
 $tcmb = (new Tcmb);
 
-$usd = $tcmb->get('USD');
+echo $tcmb->convertUsdTry(10);
 
-echo $tcmb->getUsd()->forexSelling;
+echo '<pre>';
+print_r($tcmb->get('USD'));
+echo '</pre>';
 
-/*
 echo '<pre>';
 print_r($tcmb->getExchangeRates());
 echo '</pre>';
-*/
 
 echo '<pre>';
-print_r($tcmb->convertUsdTry(10));
+print_r($tcmb->getCurrencies());
 echo '</pre>';
