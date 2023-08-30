@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "925ef50aa8d5a189c3f6527d32acbcae",
+    "packages": [],
+    "packages-dev": [
+        {
+            "name": "mlevent/file-cache",
+            "version": "v0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mlevent/file-cache.git",
+                "reference": "6b46724d66be467d8e96797487a836c0536f1dc8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mlevent/file-cache/zipball/6b46724d66be467d8e96797487a836c0536f1dc8",
+                "reference": "6b46724d66be467d8e96797487a836c0536f1dc8",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Mlevent\\FileCache\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "mlevent",
+                    "email": "ghergedan@gmail.com"
+                }
+            ],
+            "description": "PHP için basit dosya tipi cache paketi.",
+            "homepage": "https://github.com/mlevent/file-cache",
+            "support": {
+                "issues": "https://github.com/mlevent/file-cache/issues",
+                "source": "https://github.com/mlevent/file-cache/tree/v0.1.0"
+            },
+            "time": "2023-08-29T02:10:52+00:00"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

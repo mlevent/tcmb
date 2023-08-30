@@ -1,0 +1,22 @@
+{
+  "name": "mlevent/tcmb",
+  "description": "TCMB'ın yayınladığı döviz kuru bilgilerine günlük ya da geçmişe dönük ulaşabilir, para birimlerini dönüştürebilirsiniz.",
+  "homepage": "https://github.com/mlevent/tcmb",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Mlevent\\Tcmb\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "mlevent",
+      "email": "ghergedan@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "mlevent/file-cache": "^0.1.0"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
